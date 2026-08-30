@@ -1,0 +1,62 @@
+about:
+  description: A Git-compatible VCS that is both simple and powerful
+  license: Apache-2.0
+  homepage: https://jj-vcs.dev
+  head: efe0cf1
+  archived: false
+  latestVersion: v0.44.0
+  collectedAt: 2026-08-30T05:19:49Z
+timeline:
+  created: 2020-12-18
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-06
+popularity:
+  star: 31259
+  watcher: 101
+  fork: 1191
+  release: 51
+  contributor: 373
+  pullRequest: 1095
+  issue: 2216
+language:
+  Rust: 9439686
+  MDX: 34461
+  JavaScript: 14815
+  Nix: 7387
+  Astro: 5017
+  CSS: 562
+  TypeScript: 275
+totalLine: 9502203
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 1
+    mergedPR: 75
+    openPR: 45
+    closedIssue: 14
+    openIssue: 20
+    commit: 63
+  last90d:
+    since: 2026-06-01
+    release: 3
+    mergedPR: 200
+    openPR: 104
+    closedIssue: 46
+    openIssue: 57
+    commit: 245
+  last180d:
+    since: 2026-03-03
+    release: 6
+    mergedPR: 449
+    openPR: 171
+    closedIssue: 115
+    openIssue: 155
+    commit: 612
+  last360d:
+    since: 2025-09-04
+    release: 12
+    mergedPR: 1176
+    openPR: 268
+    closedIssue: 366
+    openIssue: 366
+    commit: 1765
