@@ -4,10 +4,10 @@ about:
     A Git-compatible VCS that is both simple and powerful
   license: Apache-2.0
   homepage: https://jj-vcs.dev
-  head: 0615d8d
+  head: 0050db8
   archived: false
   latestVersion: v0.45.1
-  collectedAt: 2026-09-04T19:31:22Z
+  collectedAt: 2026-09-04T21:03:32Z
 timeline:
   created: 2020-12-18
   lastCommit: 2026-09-04
@@ -21,81 +21,163 @@ popularity:
   pullRequest: 7149
   issue: 2222
 language:
-  Rust: 9472048
+  Rust: 9473983
   MDX: 34461
   JavaScript: 14815
   Nix: 7387
   Astro: 5017
   CSS: 562
   TypeScript: 275
-totalBytes: 9534565
+totalBytes: 9536500
 recent:
   last30d:
     since: 2026-08-05
     release: 3
-    mergedPR: 72
-    openPR: 49
+    mergedPR: 73
+    openPR: 48
     closedIssue: 13
     openIssue: 22
-    commit: 83
+    commit: 84
   last60d:
     since: 2026-07-06
     release: 3
-    mergedPR: 145
-    openPR: 73
+    mergedPR: 146
+    openPR: 72
     closedIssue: 29
     openIssue: 43
-    commit: 187
+    commit: 188
   last90d:
     since: 2026-06-06
     release: 4
-    mergedPR: 206
-    openPR: 107
+    mergedPR: 207
+    openPR: 106
     closedIssue: 48
     openIssue: 55
-    commit: 270
+    commit: 271
   last180d:
     since: 2026-03-08
     release: 7
-    mergedPR: 446
-    openPR: 172
+    mergedPR: 447
+    openPR: 171
     closedIssue: 112
     openIssue: 150
-    commit: 637
+    commit: 638
   last360d:
     since: 2025-09-09
     release: 13
-    mergedPR: 1172
-    openPR: 274
+    mergedPR: 1173
+    openPR: 273
     closedIssue: 364
     openIssue: 356
-    commit: 1790
+    commit: 1791
   last720d:
     since: 2024-09-14
     release: 27
-    mergedPR: 2838
-    openPR: 369
+    mergedPR: 2839
+    openPR: 368
     closedIssue: 835
     openIssue: 626
-    commit: 4690
+    commit: 4691
 total:
   release: 53
-  mergedPR: 6040
-  openPR: 412
+  mergedPR: 6041
+  openPR: 411
   closedIssue: 1410
   openIssue: 812
-  commit: 11679
+  commit: 11680
 ---
+path: /home/runner/.x-repo/github.com/jj-vcs/jj
+collectedAt: 2026-09-04T21:03:41Z
+loc:
+  Rust:
+    code: 218444
+    comments: 18992
+    blanks: 20817
+    files: 426
+  Json:
+    code: 8148
+    comments: 0
+    blanks: 0
+    files: 4
+  Toml:
+    code: 1694
+    comments: 398
+    blanks: 209
+    files: 76
+  Yaml:
+    code: 968
+    comments: 28
+    blanks: 101
+    files: 3
+  Svg:
+    code: 720
+    comments: 5
+    blanks: 0
+    files: 10
+  JavaScript:
+    code: 327
+    comments: 72
+    blanks: 49
+    files: 5
+  Sh:
+    code: 284
+    comments: 59
+    blanks: 63
+    files: 8
+  Pest:
+    code: 269
+    comments: 64
+    blanks: 49
+    files: 3
+  Protobuf:
+    code: 218
+    comments: 137
+    blanks: 52
+    files: 7
+  Nix:
+    code: 154
+    comments: 54
+    blanks: 23
+    files: 2
+  Css:
+    code: 15
+    comments: 1
+    blanks: 2
+    files: 1
+  TypeScript:
+    code: 9
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 22201
+    blanks: 7645
+    files: 108
+  Text:
+    code: 0
+    comments: 77
+    blanks: 1
+    files: 1
+total:
+  code: 233338
+  comments: 50632
+  blanks: 30327
+  files: 655
 ---
-date: "2026-09-04T13:51:55Z"
+date: "2026-09-04T20:05:29Z"
 repo:
   name: github.com/jj-vcs/jj
-  commit: 0615d8dfa95c53c8eaafc9bd14bf1d8366433675
+  commit: 0050db80c9fc4449550d39bc0f1f05ec3a0abcfa
 scorecard:
   version: v5.5.0
   commit: c395761df6afe1a69e476bc60a013a94bcbc153f
 score: 7.1
 checks:
+  - name: Dangerous-Workflow
+    score: 10
+    reason: no dangerous workflow patterns detected
+    details: null
   - name: Code-Review
     score: 10
     reason: all changesets reviewed
@@ -105,11 +187,6 @@ checks:
     reason: update tool detected
     details:
       - 'Info: detected update tool: Dependabot: .github/dependabot.yml:1'
-  - name: Packaging
-    score: -1
-    reason: packaging workflow not detected
-    details:
-      - 'Warn: no GitHub/GitLab publishing workflow detected.'
   - name: Security-Policy
     score: 10
     reason: security policy file detected
@@ -118,10 +195,11 @@ checks:
       - 'Info: Found linked content: SECURITY.md:1'
       - 'Info: Found disclosure, vulnerability, and/or timelines in security policy: SECURITY.md:1'
       - 'Info: Found text in security policy: SECURITY.md:1'
-  - name: Dangerous-Workflow
-    score: 10
-    reason: no dangerous workflow patterns detected
-    details: null
+  - name: Packaging
+    score: -1
+    reason: packaging workflow not detected
+    details:
+      - 'Warn: no GitHub/GitLab publishing workflow detected.'
   - name: Maintained
     score: 10
     reason: 30 commit(s) and 4 issue activity found in the last 90 days -- score normalized to 10
@@ -132,8 +210,8 @@ checks:
     details:
       - 'Warn: jobLevel ''checks'' permission set to ''write'': .github/workflows/ci.yml:178'
       - 'Warn: jobLevel ''contents'' permission set to ''write'': .github/workflows/dependabot.yml:16'
-      - 'Warn: jobLevel ''contents'' permission set to ''write'': .github/workflows/docs.yml:49'
       - 'Warn: jobLevel ''contents'' permission set to ''write'': .github/workflows/docs.yml:15'
+      - 'Warn: jobLevel ''contents'' permission set to ''write'': .github/workflows/docs.yml:49'
       - 'Warn: jobLevel ''contents'' permission set to ''write'': .github/workflows/release.yml:16'
       - 'Warn: jobLevel ''contents'' permission set to ''write'': .github/workflows/release.yml:91'
       - 'Warn: jobLevel ''contents'' permission set to ''write'': .github/workflows/release.yml:131'
@@ -162,6 +240,12 @@ checks:
     score: 0
     reason: no effort to earn an OpenSSF best practices badge detected
     details: null
+  - name: License
+    score: 10
+    reason: license file detected
+    details:
+      - 'Info: project has a license file: LICENSE:0'
+      - 'Info: FSF or OSI recognized license: Apache License 2.0: LICENSE:0'
   - name: Vulnerabilities
     score: 1
     reason: 9 existing vulnerabilities detected
@@ -175,11 +259,6 @@ checks:
       - 'Warn: Project is vulnerable to: https://osv.dev/PYSEC-2026-2275'
       - 'Warn: Project is vulnerable to: https://osv.dev/PYSEC-2026-141'
       - 'Warn: Project is vulnerable to: https://osv.dev/PYSEC-2026-142'
-  - name: Fuzzing
-    score: 0
-    reason: project is not fuzzed
-    details:
-      - 'Warn: no fuzzer integrations found'
   - name: Signed-Releases
     score: 0
     reason: Project has not signed or included provenance with any releases.
@@ -194,12 +273,6 @@ checks:
       - 'Warn: release artifact v0.44.0 does not have provenance: https://api.github.com/repos/jj-vcs/jj/releases/365925791'
       - 'Warn: release artifact v0.43.0 does not have provenance: https://api.github.com/repos/jj-vcs/jj/releases/347789540'
       - 'Warn: release artifact v0.42.0 does not have provenance: https://api.github.com/repos/jj-vcs/jj/releases/334426174'
-  - name: License
-    score: 10
-    reason: license file detected
-    details:
-      - 'Info: project has a license file: LICENSE:0'
-      - 'Info: FSF or OSI recognized license: Apache License 2.0: LICENSE:0'
   - name: Branch-Protection
     score: 1
     reason: branch protection is not maximal on development and all release branches
@@ -214,6 +287,11 @@ checks:
       - 'Warn: ''up-to-date branches'' is disabled on branch ''main'''
       - 'Info: status check found to merge onto on branch ''main'''
       - 'Info: PRs are required in order to make changes on branch ''main'''
+  - name: Fuzzing
+    score: 0
+    reason: project is not fuzzed
+    details:
+      - 'Warn: no fuzzer integrations found'
   - name: SAST
     score: 10
     reason: SAST tool is run on all commits
