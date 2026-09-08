@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 9989930,
       "digest": "sha256:51ba42e3d0682616f6eb015045bfe45289b396f03511f9897f645ce8e9272743",
-      "download_count": 701,
+      "download_count": 711,
       "created_at": "2026-09-03T16:33:53Z",
       "updated_at": "2026-09-03T16:33:54Z",
       "browser_download_url": "https://github.com/jj-vcs/jj/releases/download/v0.45.1/jj-v0.45.1-aarch64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10347138,
       "digest": "sha256:7349a43dd5a20dbc998b10114daa0ee63d2ab863fb822c7eb6b0ebca5903cc69",
-      "download_count": 466,
+      "download_count": 475,
       "created_at": "2026-09-03T16:29:44Z",
       "updated_at": "2026-09-03T16:29:45Z",
       "browser_download_url": "https://github.com/jj-vcs/jj/releases/download/v0.45.1/jj-v0.45.1-aarch64-unknown-linux-musl.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 10579735,
       "digest": "sha256:6171582d0b5a98a1005cd9643faebff7936812ec264d7968a39d9cef3654a99b",
-      "download_count": 88,
+      "download_count": 90,
       "created_at": "2026-09-03T16:32:01Z",
       "updated_at": "2026-09-03T16:32:02Z",
       "browser_download_url": "https://github.com/jj-vcs/jj/releases/download/v0.45.1/jj-v0.45.1-x86_64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10076539,
       "digest": "sha256:5dbf2619272c897394d34190a94b21a6ab8d1e8e59fcf7dfc173d8fa8aa90bf0",
-      "download_count": 1295,
+      "download_count": 1323,
       "created_at": "2026-09-03T16:35:16Z",
       "updated_at": "2026-09-03T16:35:17Z",
       "browser_download_url": "https://github.com/jj-vcs/jj/releases/download/v0.45.1/jj-v0.45.1-x86_64-pc-windows-msvc.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 10996028,
       "digest": "sha256:f35438350b5d61963aac5dd74ede510b31d6b9690769d1a6268cf058cc825f72",
-      "download_count": 3405,
+      "download_count": 3482,
       "created_at": "2026-09-03T16:30:17Z",
       "updated_at": "2026-09-03T16:30:17Z",
       "browser_download_url": "https://github.com/jj-vcs/jj/releases/download/v0.45.1/jj-v0.45.1-x86_64-unknown-linux-musl.tar.gz"
