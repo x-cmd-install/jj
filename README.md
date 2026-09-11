@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,506 · **Forks**: 1,212 · **Open issues**: 2,227 · **Contributors**: 376
+- **Stars**: 31,510 · **Forks**: 1,212 · **Open issues**: 2,227 · **Contributors**: 376
 
 ## Totals (cumulative)
 
@@ -58,11 +58,11 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 66 | 60 | 11 | 19 | 76 |
-| last60d | 2026-07-13 | 3 | 140 | 90 | 29 | 37 | 187 |
-| 90d | 2026-06-13 | 4 | 209 | 116 | 45 | 54 | 262 |
+| 30d | 2026-08-12 | 2 | 66 | 61 | 11 | 19 | 76 |
+| last60d | 2026-07-13 | 3 | 140 | 91 | 29 | 37 | 187 |
+| 90d | 2026-06-13 | 4 | 209 | 117 | 45 | 54 | 262 |
 | last180d | 2026-03-15 | 7 | 432 | 182 | 110 | 144 | 600 |
-| 360d | 2025-09-16 | 13 | 1167 | 284 | 353 | 347 | 1769 |
+| 360d | 2025-09-16 | 13 | 1167 | 283 | 353 | 347 | 1769 |
 | last720d | 2024-09-21 | 27 | 2828 | 379 | 832 | 623 | 4674 |
 
 ## Release assets
@@ -86,4 +86,4 @@ Install metadata for jj lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:07:50Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:47:26Z._
