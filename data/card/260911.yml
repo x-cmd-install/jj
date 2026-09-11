@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.45.1"
   latestRelease: "v0.45.1"
   latestPrerelease: "v0.4.0"
-  collectedAt: 2026-09-11T00:07:20Z
+  collectedAt: 2026-09-11T04:46:59Z
 timeline:
   created: 2020-12-18
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-03
   lastPrerelease: 2022-04-03
 popularity:
-  star: 31506
+  star: 31510
   watcher: 105
   fork: 1212
   release: 53
   contributor: 376
-  pullRequest: 7189
+  pullRequest: 7190
   issue: 2227
 language:
   Rust: 9533420
@@ -36,7 +36,7 @@ recent:
     since: 2026-08-12
     release: 2
     mergedPR: 66
-    openPR: 60
+    openPR: 61
     closedIssue: 11
     openIssue: 19
     commit: 76
@@ -44,7 +44,7 @@ recent:
     since: 2026-07-13
     release: 3
     mergedPR: 140
-    openPR: 90
+    openPR: 91
     closedIssue: 29
     openIssue: 37
     commit: 187
@@ -52,7 +52,7 @@ recent:
     since: 2026-06-13
     release: 4
     mergedPR: 209
-    openPR: 116
+    openPR: 117
     closedIssue: 45
     openIssue: 54
     commit: 262
@@ -68,7 +68,7 @@ recent:
     since: 2025-09-16
     release: 13
     mergedPR: 1167
-    openPR: 284
+    openPR: 283
     closedIssue: 353
     openIssue: 347
     commit: 1769
@@ -89,7 +89,7 @@ total:
   commit: 11699
 ---
 path: /home/runner/.x-repo/github.com/jj-vcs/jj
-collectedAt: 2026-09-11T00:07:45Z
+collectedAt: 2026-09-11T04:47:21Z
 loc:
   Rust:
     code: 219909
