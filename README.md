@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Vulnerabilities** (0/10) — 15 existing vulnerabilities detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.45.1` (2026-09-03)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-14
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 31,556 · **Forks**: 1,217 · **Open issues**: 2,231 · **Contributors**: 380
+- **Stars**: 31,579 · **Forks**: 1,216 · **Open issues**: 2,234 · **Contributors**: 380
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 6066 · **Open PRs**: 431 · **Closed issues**: 1422 · **Open issues**: 809 · **Commits**: 11715
+- **Releases**: 53 · **Merged PRs**: 6068 · **Open PRs**: 433 · **Closed issues**: 1423 · **Open issues**: 811 · **Commits**: 11717
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 2 | 66 | 68 | 13 | 18 | 73 |
-| last60d | 2026-07-16 | 3 | 144 | 97 | 30 | 34 | 181 |
-| 90d | 2026-06-16 | 4 | 210 | 122 | 47 | 55 | 272 |
-| last180d | 2026-03-18 | 7 | 430 | 187 | 110 | 141 | 578 |
-| 360d | 2025-09-19 | 13 | 1162 | 289 | 358 | 341 | 1752 |
-| last720d | 2024-09-24 | 27 | 2827 | 386 | 840 | 619 | 4674 |
+| 30d | 2026-08-16 | 2 | 68 | 69 | 12 | 21 | 75 |
+| last60d | 2026-07-17 | 3 | 145 | 99 | 30 | 37 | 183 |
+| 90d | 2026-06-17 | 4 | 211 | 122 | 47 | 58 | 274 |
+| last180d | 2026-03-19 | 7 | 432 | 189 | 108 | 144 | 580 |
+| 360d | 2025-09-20 | 13 | 1162 | 290 | 359 | 342 | 1754 |
+| last720d | 2024-09-25 | 27 | 2823 | 388 | 840 | 621 | 4664 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for jj lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:03:33Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:19:22Z._
