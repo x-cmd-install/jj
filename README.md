@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,742 · **Forks**: 1,234 · **Open issues**: 2,246 · **Contributors**: 380
+- **Stars**: 31,753 · **Forks**: 1,234 · **Open issues**: 2,248 · **Contributors**: 380
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 6087 · **Open PRs**: 455 · **Closed issues**: 1433 · **Open issues**: 813 · **Commits**: 11757
+- **Releases**: 53 · **Merged PRs**: 6087 · **Open PRs**: 456 · **Closed issues**: 1433 · **Open issues**: 815 · **Commits**: 11757
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 2 | 52 | 89 | 9 | 23 | 80 |
-| last60d | 2026-07-27 | 3 | 144 | 120 | 26 | 40 | 198 |
-| 90d | 2026-06-27 | 4 | 212 | 141 | 44 | 65 | 295 |
-| last180d | 2026-03-29 | 7 | 418 | 213 | 105 | 135 | 586 |
-| 360d | 2025-09-30 | 13 | 1154 | 311 | 359 | 341 | 1769 |
-| last720d | 2024-10-05 | 26 | 2812 | 411 | 844 | 617 | 4647 |
+| 30d | 2026-08-27 | 2 | 50 | 90 | 9 | 25 | 80 |
+| last60d | 2026-07-28 | 3 | 140 | 121 | 26 | 42 | 198 |
+| 90d | 2026-06-28 | 4 | 209 | 142 | 43 | 66 | 295 |
+| last180d | 2026-03-30 | 7 | 415 | 213 | 105 | 135 | 586 |
+| 360d | 2025-10-01 | 13 | 1152 | 312 | 359 | 342 | 1769 |
+| last720d | 2024-10-06 | 26 | 2811 | 412 | 843 | 619 | 4646 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for jj lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:02:03Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:05:59Z._
