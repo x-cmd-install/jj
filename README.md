@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.45.1` (2026-09-03)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-09-30
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 31,806 · **Forks**: 1,237 · **Open issues**: 2,250 · **Contributors**: 382
+- **Stars**: 31,824 · **Forks**: 1,237 · **Open issues**: 2,252 · **Contributors**: 382
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 6104 · **Open PRs**: 450 · **Closed issues**: 1437 · **Open issues**: 813 · **Commits**: 11791
+- **Releases**: 53 · **Merged PRs**: 6105 · **Open PRs**: 454 · **Closed issues**: 1438 · **Open issues**: 814 · **Commits**: 11792
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 2 | 56 | 82 | 10 | 23 | 85 |
-| last60d | 2026-08-01 | 3 | 144 | 113 | 25 | 43 | 200 |
-| 90d | 2026-07-02 | 4 | 217 | 135 | 41 | 63 | 309 |
-| last180d | 2026-04-03 | 6 | 422 | 205 | 101 | 129 | 578 |
-| 360d | 2025-10-05 | 12 | 1161 | 306 | 353 | 338 | 1773 |
-| last720d | 2024-10-10 | 26 | 2807 | 405 | 842 | 617 | 4648 |
+| 30d | 2026-09-01 | 2 | 54 | 84 | 11 | 24 | 86 |
+| last60d | 2026-08-02 | 3 | 141 | 117 | 26 | 44 | 201 |
+| 90d | 2026-07-03 | 3 | 213 | 138 | 39 | 64 | 310 |
+| last180d | 2026-04-04 | 6 | 419 | 207 | 102 | 130 | 579 |
+| 360d | 2025-10-06 | 12 | 1154 | 310 | 354 | 337 | 1774 |
+| last720d | 2024-10-11 | 26 | 2807 | 408 | 842 | 617 | 4645 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for jj lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:46:00Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:07:48Z._
