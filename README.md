@@ -14,13 +14,13 @@ x install jj
 
 ## Code insight
 
-Total: **237,285** lines of code across **529** files in the top 5 languages.
+Total: **237,317** lines of code across **531** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 223,293 | 19,346 | 21,231 | 436 |
+| Rust | 223,296 | 19,360 | 21,234 | 437 |
 | Json | 9,302 | 0 | 0 | 4 |
-| Toml | 1,705 | 399 | 212 | 76 |
+| Toml | 1,734 | 399 | 217 | 77 |
 | Yaml | 969 | 28 | 101 | 3 |
 | Svg | 720 | 5 | 0 | 10 |
 
@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -42,40 +42,40 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.45.1` (2026-09-03)
-- **Last commit**: 2026-10-06
+- **Latest**: `v0.46.0` (2026-10-07)
+- **Last commit**: 2026-10-08
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 31,911 · **Forks**: 1,236 · **Open issues**: 2,256 · **Contributors**: 385
+- **Stars**: 31,925 · **Forks**: 1,237 · **Open issues**: 2,256 · **Contributors**: 385
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 6129 · **Open PRs**: 443 · **Closed issues**: 1443 · **Open issues**: 813 · **Commits**: 11831
+- **Releases**: 54 · **Merged PRs**: 6132 · **Open PRs**: 444 · **Closed issues**: 1443 · **Open issues**: 813 · **Commits**: 11836
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 56 | 79 | 9 | 25 | 93 |
-| last60d | 2026-08-08 | 2 | 141 | 110 | 21 | 42 | 201 |
-| 90d | 2026-07-09 | 3 | 214 | 132 | 39 | 58 | 315 |
-| last180d | 2026-04-10 | 6 | 420 | 194 | 100 | 127 | 594 |
-| 360d | 2025-10-12 | 12 | 1156 | 298 | 344 | 331 | 1750 |
-| last720d | 2024-10-17 | 26 | 2800 | 397 | 843 | 614 | 4631 |
+| 30d | 2026-09-08 | 1 | 56 | 77 | 9 | 23 | 96 |
+| last60d | 2026-08-09 | 3 | 139 | 111 | 21 | 42 | 204 |
+| 90d | 2026-07-10 | 4 | 216 | 133 | 39 | 57 | 318 |
+| last180d | 2026-04-11 | 7 | 422 | 194 | 100 | 127 | 599 |
+| 360d | 2025-10-13 | 13 | 1153 | 298 | 344 | 329 | 1755 |
+| last720d | 2024-10-18 | 27 | 2800 | 397 | 842 | 614 | 4633 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [jj-v0.45.1-aarch64-apple-darwin.tar.gz](https://github.com/jj-vcs/jj/releases/download/v0.45.1/jj-v0.45.1-aarch64-apple-darwin.tar.gz) | 9.5 MiB | `native/darwin/arm64` |
-| [jj-v0.45.1-aarch64-pc-windows-msvc.zip](https://github.com/jj-vcs/jj/releases/download/v0.45.1/jj-v0.45.1-aarch64-pc-windows-msvc.zip) | 8.9 MiB | `native/win/arm64` |
-| [jj-v0.45.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/jj-vcs/jj/releases/download/v0.45.1/jj-v0.45.1-aarch64-unknown-linux-musl.tar.gz) | 9.9 MiB | `native/linux/arm64/musl` |
-| [jj-v0.45.1-docs-html.tar.gz](https://github.com/jj-vcs/jj/releases/download/v0.45.1/jj-v0.45.1-docs-html.tar.gz) | 1.9 MiB | `native/unknown` |
-| [jj-v0.45.1-x86_64-apple-darwin.tar.gz](https://github.com/jj-vcs/jj/releases/download/v0.45.1/jj-v0.45.1-x86_64-apple-darwin.tar.gz) | 10.1 MiB | `native/darwin/x64` |
-| [jj-v0.45.1-x86_64-pc-windows-msvc.zip](https://github.com/jj-vcs/jj/releases/download/v0.45.1/jj-v0.45.1-x86_64-pc-windows-msvc.zip) | 9.6 MiB | `native/win/x64` |
-| [jj-v0.45.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/jj-vcs/jj/releases/download/v0.45.1/jj-v0.45.1-x86_64-unknown-linux-musl.tar.gz) | 10.5 MiB | `native/linux/x64/musl` |
+| [jj-v0.46.0-aarch64-apple-darwin.tar.gz](https://github.com/jj-vcs/jj/releases/download/v0.46.0/jj-v0.46.0-aarch64-apple-darwin.tar.gz) | 9.6 MiB | `native/darwin/arm64` |
+| [jj-v0.46.0-aarch64-pc-windows-msvc.zip](https://github.com/jj-vcs/jj/releases/download/v0.46.0/jj-v0.46.0-aarch64-pc-windows-msvc.zip) | 9.0 MiB | `native/win/arm64` |
+| [jj-v0.46.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/jj-vcs/jj/releases/download/v0.46.0/jj-v0.46.0-aarch64-unknown-linux-musl.tar.gz) | 9.9 MiB | `native/linux/arm64/musl` |
+| [jj-v0.46.0-docs-html.tar.gz](https://github.com/jj-vcs/jj/releases/download/v0.46.0/jj-v0.46.0-docs-html.tar.gz) | 1.9 MiB | `native/unknown` |
+| [jj-v0.46.0-x86_64-apple-darwin.tar.gz](https://github.com/jj-vcs/jj/releases/download/v0.46.0/jj-v0.46.0-x86_64-apple-darwin.tar.gz) | 10.2 MiB | `native/darwin/x64` |
+| [jj-v0.46.0-x86_64-pc-windows-msvc.zip](https://github.com/jj-vcs/jj/releases/download/v0.46.0/jj-v0.46.0-x86_64-pc-windows-msvc.zip) | 9.8 MiB | `native/win/x64` |
+| [jj-v0.46.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/jj-vcs/jj/releases/download/v0.46.0/jj-v0.46.0-x86_64-unknown-linux-musl.tar.gz) | 10.6 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for jj lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:09:54Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:09:03Z._
