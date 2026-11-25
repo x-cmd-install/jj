@@ -14,15 +14,15 @@ x install jj
 
 ## Code insight
 
-Total: **247,144** lines of code across **557** files in the top 5 languages.
+Total: **248,699** lines of code across **558** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 232,967 | 20,005 | 22,078 | 457 |
+| Rust | 233,505 | 20,054 | 22,106 | 462 |
 | Json | 9,220 | 0 | 0 | 4 |
-| Toml | 1,972 | 409 | 257 | 83 |
+| Toml | 2,093 | 417 | 275 | 86 |
 | Yaml | 961 | 28 | 101 | 3 |
-| Svg | 720 | 5 | 0 | 10 |
+| Python | 896 | 25 | 143 | 3 |
 
 ## OpenSSF Scorecard
 
@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 20 existing vulnerabilities detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 32,620 · **Forks**: 1,297 · **Open issues**: 2,313 · **Contributors**: 406
+- **Stars**: 32,630 · **Forks**: 1,298 · **Open issues**: 2,315 · **Contributors**: 406
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 6400 · **Open PRs**: 429 · **Closed issues**: 1511 · **Open issues**: 802 · **Commits**: 12346
+- **Releases**: 56 · **Merged PRs**: 6404 · **Open PRs**: 429 · **Closed issues**: 1511 · **Open issues**: 804 · **Commits**: 12360
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 170 | 37 | 14 | 21 | 263 |
-| last60d | 2026-09-25 | 3 | 270 | 82 | 33 | 37 | 490 |
-| 90d | 2026-08-26 | 5 | 348 | 128 | 46 | 56 | 613 |
-| last180d | 2026-05-28 | 8 | 573 | 187 | 104 | 104 | 933 |
-| 360d | 2025-11-29 | 14 | 1237 | 278 | 302 | 273 | 1926 |
-| last720d | 2024-12-04 | 28 | 2846 | 386 | 856 | 590 | 4756 |
+| 30d | 2026-10-26 | 2 | 163 | 39 | 13 | 23 | 268 |
+| last60d | 2026-09-26 | 3 | 272 | 83 | 33 | 37 | 500 |
+| 90d | 2026-08-27 | 5 | 349 | 128 | 46 | 58 | 626 |
+| last180d | 2026-05-29 | 8 | 577 | 186 | 104 | 106 | 947 |
+| 360d | 2025-11-30 | 14 | 1234 | 278 | 301 | 275 | 1940 |
+| last720d | 2024-12-05 | 27 | 2847 | 386 | 855 | 592 | 4757 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for jj lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:20:54Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:37:04Z._
